@@ -1,4 +1,4 @@
-![image](https://github.com/Narius2030/Narius2030/assets/94912102/bc4957a1-7990-469d-ae21-546e2da7ec78)<h1 align="center">Hi 👋, I'm Bùi Đức Nhân, or Narius for english name</h1>
+<h1 align="center">Hi 👋, I'm Bùi Đức Nhân, or Narius for english name</h1>
 <h3 align="center">A passionate Data Engineering student from Vietnam. I'm bearing an ambitious for being a data specialist, but I'm indeed a fresher in data field currently. So, I am trying by all the best for comprehending as many technology and techniques as possible</h3>
 
 - 🔭 I’m currently studing in **HCMUTE university**
