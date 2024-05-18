@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bùi Đức Nhân, or Narius for english name</h1>
-<h3 align="center">A passionate Data Engineering student from Vietnam. I'm bearing an ambitious for being a data specialist, but I'm indeed a fresher in data field currently. So, I am trying by all the best for comprehending as many technology and techniques as possible</h3>
+<h3 align="center">A passionate Data-er student from Vietnam. I'm bearing an ambitious for being a data specialist, but I'm indeed a fresher in data field currently. So, I am trying by all the best for comprehending as many technology and techniques as possible</h3>
 
 - 🔭 I’m currently studing in **HCMUTE university**
 
