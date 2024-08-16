@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studing in **HCMUTE university**
 
-- 🌱 I’m currently learning **data analysis and warehouse as a newbie**
-
 - 📫 How to reach me **nhanbui15122003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
