@@ -4,17 +4,19 @@
 
 I'm a passionate Data Engineering student from Vietnam, eager to explore and master the world of data. Currently, I am building a strong foundation in Big Data, Machine Learning, and Cloud Computing, continuously expanding my knowledge through hands-on projects and research.
 
+🔭 I’m currently studing in **HCMUTE university**
+
+📫 How to reach me **nhanbui15122003@gmail.com**
+
 🚀 What I'm working on:
 
 - Building scalable data pipelines and real-time streaming systems
 - Experimenting with machine learning models and MLOps
 - Exploring more data lakehouse/warehouse techniques
 
-- 🔭 I’m currently studing in **HCMUTE university**
-
-- 📫 How to reach me **nhanbui15122003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-nhan-bui-a25648237)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/buiducnhan15122003/)
 
