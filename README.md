@@ -24,9 +24,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![MinIO](https://img.shields.io/badge/MinIO-C12127?style=for-the-badge&logo=minio&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-1AB394?style=for-the-badge&logo=databricks&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-3F4E9C?style=for-the-badge&logo=trino&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5A5F?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
