@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bùi Đức Nhân, or Narius in English
 
-🎓 Data Engineering Student | Aspiring Data Specialist
+🎓 Aspiring Data Engineer
 
 I'm a passionate Data Engineering student from Vietnam, eager to explore and master the world of data. Currently, I am building a strong foundation in Big Data, Machine Learning, and Cloud Computing, continuously expanding my knowledge through hands-on projects and research.
 
