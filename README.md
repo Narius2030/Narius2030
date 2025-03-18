@@ -43,4 +43,12 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5A5F?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<h3 align="left">Activity:</h3>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry" width="50%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula" width="50%">
+</div>
+
+
 
