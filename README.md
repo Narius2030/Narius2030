@@ -15,13 +15,13 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 - Exploring more data lakehouse/warehouse techniques
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-nhan-bui-a25648237)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/buiducnhan15122003/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -43,10 +43,11 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5A5F?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Activity</h3>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry) | ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula) |
-|---|---|
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
