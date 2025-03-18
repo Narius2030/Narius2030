@@ -45,10 +45,8 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 
 <h3 align="left">Activity:</h3>
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry" width="50%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula" width="50%">
-</div>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry) | ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula) |
+|---|---|
 
 
 
