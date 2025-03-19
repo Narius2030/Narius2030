@@ -47,7 +47,5 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry&card_width=495)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Narius2030&layout=compact&theme=whatsapp-dark)](https://git.io/streak-stats)
-
 
 
