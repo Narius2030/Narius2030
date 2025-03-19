@@ -45,9 +45,9 @@ I'm a passionate Data Engineering student from Vietnam, eager to explore and mas
 
 <h3 align="left">Activity</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narius2030&show_icons=true&theme=blueberry&card_width=495)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Narius2030&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Narius2030&layout=compact&theme=whatsapp-dark)](https://git.io/streak-stats)
 
 
 
