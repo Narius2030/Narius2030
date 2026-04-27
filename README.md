@@ -4,15 +4,12 @@
 
 I'm a passionate Data Engineering student from Vietnam, eager to explore and master the world of data. Currently, I am building a strong foundation in Big Data, Machine Learning, and Cloud Computing, continuously expanding my knowledge through hands-on projects and research.
 
-🔭 I’m seeking a job
-
 📫 How to reach me **nhanbui15122003@gmail.com**
 
 🚀 What I'm working on:
 
-- Building scalable data pipelines and real-time streaming systems
-- Experimenting with machine learning models and MLOps
-- Exploring more data lakehouse/warehouse techniques
+- Building scalable data platform to ensure consistent and available in data that is used to dashboard BI reports
+- Building consistent Metadata and Data Glossary to align business definitions for columns, tables, linages and metrics
 
 
 <h3 align="left">Connect with me</h3>
